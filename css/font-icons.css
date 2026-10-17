@@ -1,0 +1,57 @@
+/*Font Awesome 6 Icon (6.5.1) */
+
+ .fa{font-family:var(--fa-style-family,"Font Awesome 6 Free");font-weight:var(--fa-style,900)}.fa,.fa-solid,.fab,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:var(--fa-display,inline-block);font-style:normal;font-variant:normal;line-height:1;text-rendering:auto}.fa-solid,.far,.fas{font-family:"Font Awesome 6 Free"}.fab{font-family:"Font Awesome 6 Brands"}.fa-calendar-alt:before{content:"\f073"}.fa-comments:before{content:"\f086"}.fa-user:before{content:"\f007"}.fa-location-arrow:before{content:"\f124"}.fa-star:before{content:"\f005"}.fa-handshake:before{content:"\f2b5"}.fa-angle-double-right:before{content:"\f101"}.fa-drafting-compass:before{content:"\f568"}.fa-shield-alt:before{content:"\f3ed"}.fa-star-half-alt:before{content:"\f5c0"}.fa-arrow-right:before{content:"\f061"}.fa-tools:before{content:"\f7d9"}.fa-heart:before{content:"\f004"}.fa-wrench:before{content:"\f0ad"}.fa-eye:before{content:"\f06e"}.fa-arrow-left:before{content:"\f060"}.fa-cog:before{content:"\f013"}.fa-shopping-cart:before{content:"\f07a"}.fa-images:before{content:"\f302"}.fa-ship:before{content:"\f21a"}.fa-boxes:before{content:"\f468"}.fa-play:before{content:"\f04b"}.fa-search:before{content:"\f002"}.fa-angle-up:before{content:"\f106"}.fa-award:before{content:"\f559"}.fa-angle-double-left:before{content:"\f100"}.fa-shield:before{content:"\f132"}.fa-calendar:before{content:"\f133"}.fa-scale-balanced:before{content:"\f24e"}.fa-life-ring:before{content:"\f1cd"}.fa-dollar-sign:before{content:"\24"}:root{--fa-style-family-brands:"Font Awesome 6 Brands";--fa-font-brands:normal 400 1em/1 "Font Awesome 6 Brands"}@font-face{font-family:"Font Awesome 6 Brands";font-style:normal;font-weight:400;font-display:block;src:url(../webfonts/fa-brands-400.woff2) format("woff2"),url(../webfonts/fa-brands-400.ttf) format("truetype")}.fab{font-weight:400}.fa-facebook-f:before{content:"\f39e"}.fa-linkedin:before{content:"\f08c"}.fa-instagram:before{content:"\f16d"}.fa-youtube:before{content:"\f167"}.fa-twitter:before{content:"\f099"}.fa-dribbble:before{content:"\f17d"}:root{--fa-font-regular:normal 400 1em/1 "Font Awesome 6 Free"}@font-face{font-family:"Font Awesome 6 Free";font-style:normal;font-weight:400;font-display:block;src:url(../webfonts/fa-regular-400.woff2) format("woff2"),url(../webfonts/fa-regular-400.ttf) format("truetype")}.far{font-weight:400}:root{--fa-style-family-classic:"Font Awesome 6 Free";--fa-font-solid:normal 900 1em/1 "Font Awesome 6 Free"}@font-face{font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;font-display:block;src:url(../webfonts/fa-solid-900.woff2) format("woff2"),url(../webfonts/fa-solid-900.ttf) format("truetype")}.fa-solid,.fas{font-weight:900}
+
+/* 2. Icomoon Icon */
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../webfonts/icomoon.eot?3aun5s');
+  src:  url('../webfonts/icomoon.eot?3aun5s#iefix') format('embedded-opentype'),
+    url('../webfonts/icomoon.ttf?3aun5s') format('truetype'),
+    url('../webfonts/icomoon.woff?3aun5s') format('woff'),
+    url('../webfonts/icomoon.svg?3aun5s#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-cancel:before {
+  content: "\e900";
+}
+.icon-mail:before {
+  content: "\e90b";
+}
+.icon-placeholder:before {
+  content: "\e90c";
+}
+.icon-call:before {
+  content: "\e90d";
+}
+.icon-shopping-cart:before {
+  content: "\e933";
+}
+.icon-search:before {
+  content: "\e93b";
+}
+.icon-user:before {
+  content: "\e93f";
+}
+.icon-globe:before {
+  content: "\e95d";
+}
+
+
+
+
